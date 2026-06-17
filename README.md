@@ -42,7 +42,8 @@ mingw32-make  # Windows (MinGW)
 - : AI 对战（基于搜索算法）
 - <img width="1490" height="1170" alt="4f26a66c-6bea-47e4-9b82-99d4b90b1163" src="https://github.com/user-attachments/assets/d77de2d5-88ec-418d-9a8e-2a3724efea88" />
 - : 网络对战
-- <img width="1493" height="1134" alt="cb8db62c-c0bd-44d3-8b05-3d6b7529a484" src="https://github.com/user-attachments/assets/5e0509c4-74c4-4994-92ef-46a747a484be" />
+- <img width="1491" height="1137" alt="45f0bfc9-bdc7-4abc-bae8-7781a7bb9f74" src="https://github.com/user-attachments/assets/d249d4e7-a5ee-404a-87f4-fabaaeea0bc9" />
+
 - <img width="1493" height="1134" alt="cb8db62c-c0bd-44d3-8b05-3d6b7529a484" src="https://github.com/user-attachments/assets/67b264dd-7b23-4d86-afbd-fb80885050d4" />
 
 
