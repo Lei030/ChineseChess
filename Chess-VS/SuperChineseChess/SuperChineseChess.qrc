@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>bgm.aac</file>
+        <file>check.aac</file>
+    </qresource>
+</RCC>
