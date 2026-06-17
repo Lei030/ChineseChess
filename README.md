@@ -43,6 +43,7 @@ mingw32-make  # Windows (MinGW)
 - <img width="1490" height="1170" alt="4f26a66c-6bea-47e4-9b82-99d4b90b1163" src="https://github.com/user-attachments/assets/d77de2d5-88ec-418d-9a8e-2a3724efea88" />
 - : 网络对战
 - <img width="1493" height="1134" alt="cb8db62c-c0bd-44d3-8b05-3d6b7529a484" src="https://github.com/user-attachments/assets/5e0509c4-74c4-4994-92ef-46a747a484be" />
-<img width="1489" height="1170" alt="b6600b28-d451-4f31-956c-17635fe537a7" src="https://github.com/user-attachments/assets/e45ab0a7-54dc-458d-ac2c-bc8c61478eab" />
+- <img width="1493" height="1134" alt="cb8db62c-c0bd-44d3-8b05-3d6b7529a484" src="https://github.com/user-attachments/assets/67b264dd-7b23-4d86-afbd-fb80885050d4" />
+
 
 - : 音效反馈
